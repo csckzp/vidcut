@@ -3,7 +3,7 @@
 A fast Python tool for removing time ranges from video files. Runs as a command-line tool or a desktop GUI — no re-encoding, no quality loss.
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
+![License: Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-green)
 
 ---
 
@@ -110,4 +110,4 @@ All timestamps are relative to the **start of the input file**.
 
 ## License
 
-MIT
+Apache 2.0
